@@ -1,0 +1,349 @@
+@media only screen and (max-width: 1135px) {
+  .title h5 {
+    font-size: 14px;
+  }
+
+  .title h2 {
+    font-size: 44px;
+  }
+
+  .container h5 {
+    font-size: 14px;
+  }
+
+  .container h2 {
+    font-size: 44px;
+  }
+
+  form {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .left {
+    margin-left: 10px;
+  }
+
+  .right {
+    margin-top: 20px;
+    width: 756px;
+  }
+
+  .imgs img {
+    width: 300px;
+    height: 300px;
+    flex-direction: column;
+  }
+
+  .left-ft {
+    margin-left: 20px;
+  }
+
+  .left-ft h1 {
+    font-size: 22px;
+  }
+
+  .left-ft p {
+    font-size: 13px;
+  }
+
+  .left-ft img {
+    width: 42px;
+    height: 42px;
+  }
+
+  .rightft h1 {
+    font-size: 18px;
+  }
+
+  .rightft p {
+    font-size: 13px;
+  }
+
+  .rightft h4 {
+    font-size: 13px;
+  }
+
+  .icon {
+    width: 60px;
+    height: 60px;
+    font-size: 35;
+  }
+
+  .contact h3{
+    font-size: 17px;
+  }
+
+  .contact p{
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 925px) {
+    .imgs img {
+    width: 250px;
+    height: 250px;
+  }
+
+  .title h5 {
+    font-size: 11px;
+  }
+
+  .title h2 {
+    font-size: 39px;
+  }
+
+  .container h5 {
+    font-size: 11px;
+  }
+
+  .container h2 {
+    font-size: 39px;
+  }
+
+  .left-ft {
+    margin-left: 20px;
+  }
+
+  .left-ft h1 {
+    font-size: 18px;
+  }
+
+  .left-ft p {
+    font-size: 11px;
+  }
+
+  .left-ft img {
+    width: 38px;
+    height: 38px;
+  }
+
+  .rightft h1 {
+    font-size: 15px;
+  }
+
+  .rightft p {
+    font-size: 11px;
+  }
+
+  .rightft h4 {
+    font-size: 11px;
+  }
+
+  .icon {
+    width: 54px;
+    height: 54px;
+    font-size: 30px;
+  }
+
+  .contact h3{
+    font-size: 14px;
+  }
+
+  .contact p{
+    font-size: 11px;
+  }
+
+}
+@media only screen and (max-width: 750px) {
+    .left {
+    margin-left: 10px;
+    width: 650px;
+  }
+
+  .right {
+    margin-left: 10px;
+    width: 650px;
+  }
+
+  .imgs img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .title h5 {
+    font-size: 8px;
+  }
+
+  .title h2 {
+    font-size: 34px;
+  }
+
+  .container h5 {
+    font-size: 8px;
+  }
+
+  .container h2 {
+    font-size: 34px;
+  }
+
+  .left-ft {
+    margin-left: 20px;
+  }
+
+  .left-ft h1 {
+    font-size: 15px;
+  }
+
+  .left-ft p {
+    font-size: 8px;
+  }
+
+  .left-ft img {
+    width: 34px;
+    height: 34px;
+  }
+
+  .rightft h1 {
+    font-size: 11px;
+  }
+
+  .rightft p {
+    font-size: 8px;
+  }
+
+  .rightft h4 {
+    font-size: 8px;
+  }
+
+  .icon {
+    width: 49px;
+    height: 49px;
+    font-size: 25px;
+  }
+
+  .contact h3{
+    font-size: 11px;
+  }
+
+  .contact p{
+    font-size: 8px;
+  }
+
+  .ftcontact{
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width:680px){
+    .left, .right{
+        width: 550px;
+    }
+
+    .imgs img{
+        width: 180px;
+        height: 180px;
+    }
+
+    .left-ft {
+        margin-left: 20px;
+      }
+    
+      .left-ft h1 {
+        font-size: 11px;
+      }
+    
+      .left-ft p {
+        font-size: 6px;
+      }
+    
+      .left-ft img {
+        width: 30px;
+        height: 30px;
+      }
+    
+      .rightft h1 {
+        font-size: 9px;
+      }
+    
+      .rightft p {
+        font-size: 6px;
+      }
+    
+      .rightft h4 {
+        font-size: 6px;
+      }
+    
+      .icon {
+        width: 44px;
+        height: 44px;
+        font-size: 20px;
+      }
+    
+      .contact h3{
+        font-size: 9px;
+      }
+    
+      .contact p{
+        font-size: 6px;
+      }
+
+      .ftcontact{
+        font-size: 14px;
+      }
+}
+
+@media only screen and (max-width:570px){
+    .left, .right{
+        width: 450px;
+    }
+     
+    .imgs img{
+        width: 150px;
+        height: 150px;
+    }
+
+    .left-ft {
+        margin-left: 15px;
+      }
+    
+      .left-ft h1 {
+        font-size: 9px;
+      }
+    
+      .left-ft p {
+        font-size: 5px;
+      }
+    
+      .left-ft img {
+        width: 25px;
+        height: 25px;
+      }
+    
+      .rightft h1 {
+        font-size: 7px;
+      }
+    
+      .rightft p {
+        font-size: 5px;
+      }
+    
+      .rightft h4 {
+        font-size: 5px;
+      }
+    
+      .icon {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+      }
+    
+      .contact h3{
+        font-size: 7px;
+      }
+    
+      .contact p{
+        font-size: 5px;
+      }
+
+      .ftcontact{
+        font-size: 12px;
+      }
+}
+
+@media only screen and (max-width:487px){
+    .left-ft img{
+        width: 20px;
+        height: 20px;
+    }
+}
